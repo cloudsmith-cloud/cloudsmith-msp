@@ -1,0 +1,5 @@
+# Global ownership
+* @cloudsmith-cloud/maintainers
+
+# GitHub Actions and repository configuration
+/.github/ @cloudsmith-cloud/platform-eng
